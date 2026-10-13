@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>DevOps CI/CD Project</title>
+    <title>DevOps CI/CD Project  mid-way </title>
     <style>
         body {
             margin: 0;
