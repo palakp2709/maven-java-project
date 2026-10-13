@@ -59,7 +59,7 @@ h2 {
     </div>
 
     <div class="footer">
-        <p>Automated CI/CD Pipeline Demo Project</p>
+        <p>Automated CI/CD Pipeline  Project</p>
         <p>Build → Test → Dockerize → Deploy</p>
     </div>
 </div>
